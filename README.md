@@ -6,4 +6,4 @@ The types of items needed to be shipped in this situation are divided into two m
 1. Non-Perishable products, such as blankets and tents, that have no expiry date. We refer to these types of products as Items.
 2. Perishable products, such as food and medicine, that have an expiry date. We refer to these products as Perishables.
 
-The data of the items is read through data.dat file, and the content is copied into a new file named newdata.dat
+The data of the items is read through "data.dat" file, and the content is copied into a new file named "newdata.dat".
