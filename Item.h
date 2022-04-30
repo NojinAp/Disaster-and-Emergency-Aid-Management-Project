@@ -1,10 +1,7 @@
 /*
-	==================================================
-	Disaster and Emergency Aid Management Project
-	==================================================
-	Name   : Nozhin Azarpanah
-	Date   : April 11, 2022
-
+    ==================================================
+    Disaster and Emergency Aid Management Project
+    ==================================================
 */
 
 #ifndef SDDS_ITEM_H
