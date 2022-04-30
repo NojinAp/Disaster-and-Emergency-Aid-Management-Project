@@ -1,19 +1,16 @@
 /*
-	==================================================
-	Disaster and Emergency Aid Management Project
-	==================================================
-	Name   : Nozhin Azarpanah
-	Date   : April 11, 2022
-
+    ==================================================
+    Disaster and Emergency Aid Management Project
+    ==================================================
 */
 
 #ifndef SDDS_PERISHABLE_H
 #define SDDS_PERISHABLE_H
 
-#include<iostream>
+#include <iostream>
 
-#include"Item.h"
-#include"Date.h"
+#include "Item.h"
+#include "Date.h"
 
 namespace sdds 
 {
