@@ -2,9 +2,6 @@
     ==================================================
     Disaster and Emergency Aid Management Project
     ==================================================
-    Name   : Nozhin Azarpanah
-    Date   : April 11, 2022
-
 */
 
 #ifndef SDDS_UTILS_H
@@ -16,8 +13,8 @@ namespace sdds
     const int sdds_testMon = 03;
     const int sdds_testDay = 31;
 
-    class Utils {
-
+    class Utils 
+    {
         bool m_testMode = false;
 
     public:
